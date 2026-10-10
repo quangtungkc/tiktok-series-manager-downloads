@@ -1,9 +1,11 @@
 # TikTok Series Manager
 
-Tải bản cài đặt Windows 10/11 64 bit tại [Releases](https://github.com/quangtungkc/tiktok-series-manager-downloads/releases/latest).
+Ứng dụng Windows 10/11 64-bit. Không cần cài Python.
 
-Chạy Setup.exe, cài và mở từ shortcut Desktop/Start Menu. Cần Cốc Cốc, Google Chrome và đăng nhập riêng trên từng PC. Không cần Python.
+[Tải bộ cài 1.0.1 Preview](https://github.com/quangtungkc/tiktok-series-manager-downloads/releases/download/v1.0.1-preview/TikTokSeriesManager-1.0.1-preview-Setup.exe)
 
-Bản 1.0.0 Preview: tự ghi video qua CDP và chuyển MP4; upload/xác minh Google Drive vẫn cần thao tác theo hộp thoại. Đây là bản ghi mã hóa lại. Giữ file PC, không tự tạo thư mục Drive mới. Chỉ sao lưu nội dung được phép. Bản chưa ký số, chưa kiểm thử trên PC sạch.
+[Chi tiết bản phát hành](https://github.com/quangtungkc/tiktok-series-manager-downloads/releases/tag/v1.0.1-preview)
 
-Gói không chứa tài khoản, cookie hoặc dữ liệu của máy phát triển.
+Đóng ứng dụng trước khi cài bản cập nhật. Mỗi PC cần đăng nhập Cốc Cốc/Chrome riêng.
+
+Chỉ sao lưu nội dung bạn sở hữu hoặc được phép. Bản Preview chưa ký số; thao tác upload và đối chiếu Google Drive vẫn cần thực hiện theo hộp thoại. Không chứa tài khoản, video hoặc dữ liệu tác vụ cá nhân.
